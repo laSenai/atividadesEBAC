@@ -183,4 +183,3 @@ for( let emFoco of camposEmail) {
 for( let emFoco of campouf){
     validauf(emFoco)
 }
-//teste
